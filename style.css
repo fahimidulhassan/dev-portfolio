@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.red-color{
+    color: rgb(1, 247, 255);
+    font-size: 40px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 100%;
+    padding-left: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(231, 2, 109);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
